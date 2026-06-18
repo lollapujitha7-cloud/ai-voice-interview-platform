@@ -3,7 +3,7 @@
 An interactive web application that helps users practice technical interviews through voice-based interaction. The platform uses Speech Synthesis and Speech Recognition APIs to simulate a real interview experience.
 
 🌐 Live Demo
-
+https://lollapujitha7-cloud.github.io/ai-voice-interview-platform/
 
 
 ## Features
